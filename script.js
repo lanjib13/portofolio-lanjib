@@ -3,7 +3,7 @@ function showMessage() {
 }
 
 var i = 0;
-var txt = 'selamat annda kenak prank';
+var txt = 'halo,';
 var speed = 50;
 
 function typeWriter() {
