@@ -3,7 +3,7 @@ function showMessage() {
 }
 
 var i = 0;
-var txt = 'halo,';
+var txt = 'Saya seorang mahasiswa yang sedang menempuh pendidikan di perguruan tinggi. Saya memiliki minat yang besar dalam bidang teknologi dan pengembangan perangkat lunak. Selain itu, saya juga aktif dalam berbagai kegiatan organisasi di kampus.,';
 var speed = 50;
 
 function typeWriter() {
