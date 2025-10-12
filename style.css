@@ -13,10 +13,18 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #1211ca;
+  background-color: #0000c2;
   color: white;
   padding: 10px 20px;
   z-index: 100;
+}
+
+.logo img {
+  height: 80px;
+  width: auto;
+  border-radius: 10px;
+  margin-left: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 nav ul {
@@ -40,6 +48,12 @@ nav a:hover {
 
 main {
   padding: 100px;
+
+}
+#content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 50px;
 }
 .about-section {
   display: flex;
